@@ -1,6 +1,6 @@
 # Express app example
 
-> This application is used as example for my personnal workshops. It uses CodeShip as CI with a Danger module.
+> This application is used as example for my personnal workshops. It uses CodeShip as CI with Danger module.
 
 ## Getting started
 
